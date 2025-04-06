@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Rona Design – E-commerce Platform",
+    "imageSrc": ["projects/rona1.png","projects/rona2.png","projects/rona3.png","projects/rona4.png"],
+    "description": "Developed a scalable e-commerce platform with a seamless shopping experience, secure authentication, and integrated PayPal for online transactions. Built an admin panel for efficient product and order management, streamlining store operations and inventory tracking.",
+    "skills": ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "PayPal API"],
+    "demo": "https://www.ronadesign.com",
+    "source": "https://www.github.com/ronadesign/ecommerce-platform"
+  },
+  
+  {
+    "title": "YouTube Clone",
+    "imageSrc": ["projects/you1.png","projects/you2.png","projects/you3.png"],
+    "description": "Built a YouTube-like platform that fetches and displays video content dynamically using the YouTube Data API. Implemented category-based filtering and responsive design to enhance the user experience across devices.",
+    "skills": ["React.js", "YouTube Data API", "React Router", "CSS"],
+    "demo": "https://www.youtube-clone.com",
+    "source": "https://www.github.com/yourusername/youtube-clone"
+  }
+  ,
+  {
+    "title": "Concierge Management System",
+    "imageSrc": ["projects/project.png","projects/project.png"],
+    "description": "Designed a solution for concierge services, replacing manual record-keeping with an automated system for parcel tracking, key handling, and daily activity logs. Integrated secure authentication and notification features to boost operational efficiency.",
+    "skills": ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Context API"],
+    "demo": "https://www.concierge-management.com",
+    "source": "https://www.github.com/yourusername/concierge-management-system"
+  }
+,{
+  "title": "Netflix Clone",
+  "imageSrc": ["projects/net1.png","projects/net2.png","projects/net3.png","projects/net4.png"],
+  "description": "Created a Netflix-like streaming platform with dynamic movie fetching, user authentication, and category-based browsing. Utilized Firebase for secure login and API integration for real-time content updates, delivering an engaging user experience.",
+  "skills": ["React.js", "Firebase Auth", "TMDB API", "CSS"],
+  "demo": "https://www.netflix-clone.com",
+  "source": "https://www.github.com/yourusername/netflix-clone"
+}
+  
+]

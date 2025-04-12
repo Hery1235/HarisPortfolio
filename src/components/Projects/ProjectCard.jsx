@@ -49,9 +49,9 @@ const ProjectCard = ({ project }) => {
       </ul>
 
       <div className={styles.links}>
-        <a href={demo} className={styles.link}>
+        {/* <a href={demo} className={styles.link}>
           See More
-        </a>
+        </a> */}
         <a href={source} className={styles.link}>
           View Project
         </a>

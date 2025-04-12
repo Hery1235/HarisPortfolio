@@ -5,40 +5,40 @@
     "startDate": "Oct 2023",
     "endDate": "Present",
     "experiences": [
-      "Designed and optimised SQL database architecture, improving 60% query performance and handling 10K+ monthly transactions",
-      "Architected and executed parcel and key management system using React.js, Redux, and Styled Components, reducing 75% manual data entry time and achieving 99% accuracy in tracking deliveries and key releases",
-      "Engineered a robust MERN stack infrastructure, implementing RESTful APIs and JWT authentication, processing 1000+ daily requests with an average response time of under 200ms",
-      "Spearheaded the implementation of Context API and Redux for state management, reducing component re-renders by 40% and improving overall system responsiveness by 65%"
+      "Built parcel/key management system, reducing data entry time by 75%.",
+      "Developed MERN stack with REST APIs, handling 1000+ requests daily.",
+      "Led state management with Redux, reducing re-renders by 40%."
     ],
+
     "imageSrc": "history/google.png"
   },
-  
+
   {
     "role": "Web Developer",
     "organisation": "Rona Design, UK",
     "startDate": "Aug 2022",
     "endDate": "Sept 2023",
     "experiences": [
-      "Developed and launched a full-scale e-commerce platform using MERN stack and Styled Components, incorporating real-time inventory tracking and automated order processing, handling 500+ daily transactions with 99.9% uptime",
-      "Engineered a secure authentication system using JWT and implemented payment gateway integrations, processing £100K+ in monthly transactions while ensuring PCI compliance and zero security breaches",
-      "Optimised backend performance using C++ for critical data processing tasks, reducing database load times by 45% and enhancing system scalability to support over 10,000 product listings",
-      "Implemented comprehensive state management using Redux and Context API, reducing cart abandonment rates by 50% and improving checkout completion times by 70%"
+      "Built e-commerce platform with MERN, handling 500+ daily transactions.",
+      "Developed JWT authentication, processing £100K+ monthly with zero breaches.",
+      "Optimised backend with C++, reducing load times by 45%.",
+      "Implemented Redux and Context API, improving checkout times by 70%."
     ],
+
     "imageSrc": "history/google.png"
-  }
-  ,
+  },
   {
     "role": "Frontend Application Developer",
     "organisation": "Neptune Tech, Pakistan",
     "startDate": "Sept 2021",
     "endDate": "Jun 2022",
     "experiences": [
-      "Collaborated in developing responsive web applications using React.js and Redux, creating reusable components that reduced development time by 40% and improved code maintainability by 60%",
-      "Integrated complex REST APIs with frontend applications, achieving 95% test coverage and reducing API-related bugs by 70% through error handling and data validation",
-      "Engineered responsive layouts using advanced CSS techniques and media queries, ensuring cross-browser compatibility across 15+ browser versions and achieving a mobile responsiveness score of 98%",
-      "Implemented version control best practices using Git and GitHub Actions, establishing automated deployment workflows that reduced deployment time by 65% and maintained a 99.9% successful deployment rate"
+      "Built web apps with React.js and Redux, reducing dev time by 40%.",
+      "Integrated REST APIs, achieving 95% test coverage and reducing bugs by 70%.",
+      "Created responsive layouts with CSS, ensuring 98% mobile responsiveness.",
+      "Optimised deployment with Git and GitHub Actions, reducing time by 65%."
     ],
+
     "imageSrc": "history/google.png"
   }
-  
 ]

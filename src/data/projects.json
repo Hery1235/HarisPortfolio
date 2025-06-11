@@ -1,5 +1,24 @@
 [
   {
+    "title": "Hotel Booking",
+    "imageSrc": [
+      "projects/booking1.png",
+      "projects/booking2.png",
+      "projects/booking3.png",
+      "projects/booking4.png",
+      "projects/booking5.png",
+      "projects/booking6.png",
+      "projects/booking7.png",
+      "projects/booking8.png",
+      "projects/booking9.png"
+    ],
+    "description": "Developed a full-stack hotel booking platform with secure user authentication using Clerk, Tailwind css, seamless room reservation functionality, and integrated Stripe for online payments. Implemented real-time email confirmations for bookings and built an admin dashboard for efficient hotel room management and booking oversight, streamlining operations and enhancing the user experience.",
+    "skills": ["React.js", "Node.js", "Tailwand", "MongoDB", "Clerk", "Stripe"],
+    "demo": "https://www.ronadesign.com",
+    "source": "https://quick-stay-rosy.vercel.app/"
+  },
+
+  {
     "title": "Rona Design – E-commerce Platform",
     "imageSrc": [
       "projects/rona1.png",

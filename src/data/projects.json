@@ -19,12 +19,15 @@
   },
 
   {
-    "title": "Rona Design – E-commerce Platform",
+    "title": "Rona Design ",
     "imageSrc": [
-      "projects/rona1.png",
-      "projects/rona2.png",
-      "projects/rona3.png",
-      "projects/rona4.png"
+      "projects/ronad1.png",
+      "projects/ronad2.png",
+      "projects/ronad3.png",
+      "projects/ronad4.png",
+      "projects/ronad5.png",
+      "projects/ronad6.png",
+      "projects/ronad7.png"
     ],
     "description": "Developed a scalable e-commerce platform with a seamless shopping experience, secure authentication, and integrated PayPal for online transactions. Built an admin panel for efficient product and order management, streamlining store operations and inventory tracking.",
     "skills": [
@@ -37,6 +40,26 @@
     ],
     "demo": "https://www.ronadesign.com",
     "source": "https://frontend-two-azure-18.vercel.app"
+  },
+  {
+    "title": "Chat With Me",
+    "imageSrc": [
+      "projects/chat1.png",
+      "projects/chat2.png",
+      "projects/chat3.png",
+      "projects/chat4.png"
+    ],
+    "description": "Built a real-time chat web app using the MERN stack and Socket.IO with secure authentication, online/offline status, unread message count, and a responsive UI. Deployed on Vercel for public access.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "Socket.io",
+      "Express.js",
+      "MongoDB",
+      "JWT"
+    ],
+    "demo": "https://www.ronadesign.com",
+    "source": "https://chat-application-am48.vercel.app/"
   },
 
   {

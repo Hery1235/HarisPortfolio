@@ -1,34 +1,34 @@
 [
   {
-    "role": "Frontend & React Developer",
-    "organisation": "ZSS Facility, UK",
-    "startDate": "Oct 2023",
+    "role": "Full Stack Developer",
+    "organisation": "Lightflows, UK",
+    "startDate": "Sep 2024",
     "endDate": "Present",
     "experiences": [
-      "Built parcel/key management system, reducing data entry time by 75%.",
-      "Developed MERN stack with REST APIs, handling 1000+ requests daily.",
-      "Led state management with Redux, reducing re-renders by 40%."
+      "Delivered custom web apps for FinTech, PropTech, and SaaS clients using React, Next.js, TypeScript, Nest.js and Node.js.",
+      "Built scalable microservices with Express, PostgreSQL, Firebase, and MongoDB, integrating Stripe, PayPal, and Clerk Auth.",
+      "Developed responsive TypeScript UIs with Tailwind CSS, optimizing state with Redux and Context API.",
+      "Enhanced legacy systems and deployed secure, high-performance PWAs and CRM platforms."
     ],
-
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/lightflows.png"
   },
 
   {
-    "role": "Web Developer",
-    "organisation": "Rona Design, UK",
-    "startDate": "Aug 2022",
-    "endDate": "Sept 2023",
+    "role": "Frontend Developer",
+    "organisation": "Lipsum Technologies, Islamabad",
+    "startDate": "Dec 2023",
+    "endDate": "Aug 2024",
     "experiences": [
-      "Built e-commerce platform with MERN, handling 500+ daily transactions.",
-      "Developed JWT authentication, processing £100K+ monthly with zero breaches.",
-      "Optimised backend with C++, reducing load times by 45%.",
-      "Implemented Redux and Context API, improving checkout times by 70%."
+      "Developed and maintained React and Node.js apps with TypeScript, Tailwind, and MongoDB for client projects.",
+      "Built scalable RESTful APIs with Express, improving backend performance and reliability across platforms.",
+      "Integrated Google Drive API and third-party tools to automate workflows and enhance functionality.",
+      "Optimized state management with Redux and Context API, boosting frontend performance and UX."
     ],
-
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/lipsum.png"
   },
+
   {
-    "role": "Frontend Application Developer",
+    "role": "Frontend Developer",
     "organisation": "Neptune Tech, Pakistan",
     "startDate": "Sept 2021",
     "endDate": "Jun 2022",

@@ -17,6 +17,23 @@
     "demo": "https://www.ronadesign.com",
     "source": "https://quick-stay-rosy.vercel.app/"
   },
+  {
+    "title": "Multi-Tenant Chatbot Platform",
+    "imageSrc": [
+      "projects/gc1.png",
+      "projects/gc2.png",
+      "projects/gc3.png",
+      "projects/gc4.png"
+    ],
+    "description": "Built a scalable multi-tenant chatbot platform embeddable into any website. Developed an admin dashboard for managing FAQs, Google Drive access, and user roles with Clerk authentication. Integrated RBAC and Google APIs for secure document retrieval, powered by Next.js, MongoDB, and TypeScript.",
+    "skills": [
+      "Next.js 13+",
+      "TypeScript",
+      "Tailwind CSS",
+      "Google Drive API",
+      "Google Cloud Storage"
+    ]
+  },
 
   {
     "title": "Rona Design ",

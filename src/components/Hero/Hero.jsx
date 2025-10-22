@@ -9,7 +9,11 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm M Haris</h1>
         <p className={styles.description}>
-        A skilled Software Developer specializing in React, Node.js, Redux, MongoDB, PostgreSQL, and payment integration. I craft scalable, high-performance applications with seamless user experiences. Let’s build something impactful together!
+          A skilled Software Developer specializing in React.js, Next.js,
+          TypeScript, Node.js, Nest.js, Redux, MongoDB, PostgreSQL, Firebase,
+          and payment integration. I craft scalable, high-performance
+          applications with seamless user experiences. Let’s build something
+          impactful together!
         </p>
         <a href="mailto:mh47098@gmail.com" className={styles.contactBtn}>
           Contact Me
